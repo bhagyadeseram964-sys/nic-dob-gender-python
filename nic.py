@@ -31,4 +31,4 @@ else:
     birthday = datetime(year, 1, 1) + timedelta(days=day - 2)
 
 print("Birthday:", birthday.strftime("%Y-%m-%d"))
-print("Gender:", gender)     me code eka linkedin dannada
+print("Gender:", gender)    
